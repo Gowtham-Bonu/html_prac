@@ -345,3 +345,6 @@ nav div:hover{
 .product_cont div img:hover{
     cursor: pointer;
 }
+.sale div img:hover{
+    cursor: pointer;
+}
