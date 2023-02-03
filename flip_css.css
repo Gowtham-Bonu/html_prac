@@ -330,3 +330,18 @@ section{
     margin-right: 40px;
     margin-left: 40px;
 }
+.p2{
+    color: green;
+    font-weight: 300;
+}
+.p3{
+    color: grey;
+    font-weight: 200;
+}
+nav div:hover{
+    cursor: pointer;
+    color: blue;
+}
+.product_cont div img:hover{
+    cursor: pointer;
+}
